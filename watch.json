@@ -18,5 +18,5 @@
     ]
   },
   "throttle": 100,
-  "noSavedEvents": true
+  "noSavedEvents": false
 }
